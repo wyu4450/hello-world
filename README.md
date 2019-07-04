@@ -1,2 +1,2 @@
-# hello-world
-Just another respository
+#平时作业
+简单笔记
